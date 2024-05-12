@@ -1,0 +1,9 @@
+.admin{
+    display: flex;
+    font-family: 'Roboto';
+}
+@media(max-width:800px){
+    .admin{
+        flex-direction: column;
+    }
+}
